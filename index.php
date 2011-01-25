@@ -4,6 +4,10 @@
 
 	<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar(3) ) : else : ?>
      <?php endif; ?>
+<<<<<<< HEAD
+=======
+     <? echo $contain ?>
+>>>>>>> FirsName
     
          
         <div id="containerIn">
